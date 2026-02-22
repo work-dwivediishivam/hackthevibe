@@ -16,7 +16,7 @@ User 1 ->
 ```bash
 User - tushar21211@iiitd.ac.in
 Password - asdf1234
-)```
+```
 User 2 ->
 ```bash
 User - varsha21499@iiitd.ac.in
